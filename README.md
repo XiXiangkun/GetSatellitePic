@@ -4,7 +4,8 @@
 </a>
 </p>
 
-[Getsatellite]
+[GetSatellitePic](https://github.com/XiXiangkun/GetSatellitePic)
+=======
 #### 1。爬取谷歌+卫星图片，以及其拼接 （谷歌地图采用特别的经纬度处理方式）
 #### 2。根据拍摄卫星图创建文件保存图片，存有log文件记录信息
 ### 运行环境：
