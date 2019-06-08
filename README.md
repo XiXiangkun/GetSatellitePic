@@ -14,4 +14,5 @@
 - config.cfg修改配置信息
 - main.py开始爬取
 ## Result：
+- 爬取北京市所有道路，标注红色并拼接
 ![](https://github.com/XiXiangkun/GetSatellitePic/blob/master/%E7%BB%93%E6%9E%9C%E6%A0%B7%E4%BE%8B-%E5%8C%97%E4%BA%AC%E9%81%93%E8%B7%AF%E5%9B%BE%E7%BA%A2%E8%89%B2%E6%A0%87%E6%B3%A8.jpg)
